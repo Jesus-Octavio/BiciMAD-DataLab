@@ -1,5 +1,5 @@
 # BiciMAD-DataLab
-## Máster en Ciencia de Datos UC_UIMP. Curso 2021-2022
+## Máster en Ciencia de Datos UC-UIMP. Curso 2021-2022
 ### DataLab de Ciencias Sociales
 
 La carpeta datasets.zip contiene 3 datsaets:
