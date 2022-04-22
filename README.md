@@ -9,7 +9,7 @@ El archivo bicimad.gephi contiene los resultados del análisis de redes sociales
 
 El archivo bicimad.ipynb contiene los resultados completos del análisis de redes sociales.
 
-La carpeta datasets.zip contiene 3 datsaets:
+La carpeta datasets.zip contiene 3 datsaets necesarios para la creación de la red:
 * Bicimad_Stations_201906.json -> datos ofrecidos por BiciMAD para junio de 2019.
 * bases_bicimad.json -> datos relativos a la ubicación geográfica de las bases y estaciones.
 * bases_bicimad.xlsx -> datos relativos a la ubicación geográfica de las bases y estaciones. 
