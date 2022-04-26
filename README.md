@@ -3,7 +3,7 @@
 ### DataLab de Ciencias Sociales
 
 
-El archivo bicimad.pdf contiene la memoria del trabajo.
+El archivo BICIMAD.pdf contiene la memoria del trabajo.
 
 El archivo bicimad.gephi contiene los resultados del análisis de redes sociales parcialmente (ver memoria).
 
